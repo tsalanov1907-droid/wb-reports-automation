@@ -1,0 +1,13 @@
+{
+  "name": "wb-reports-automation",
+  "version": "1.0.0",
+  "description": "Автоматическая выгрузка отчётов WB в Google Sheets",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "googleapis": "^118.0.0"
+  }
+}
